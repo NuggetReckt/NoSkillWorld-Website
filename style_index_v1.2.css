@@ -1,0 +1,125 @@
+.home-banner {
+    height: 345px;
+    background: #492337 url(img/background_night.png) center;
+    background-size: cover;
+    text-align: center;
+    border-radius: 0 0 7px 7px;
+}
+.home-banner h2 {
+    font-size: 24px;
+    color: #fff;
+    font-weight: 400;
+    margin-bottom: 0;
+    letter-spacing: 1.7pt;
+}
+.home-banner h3 {
+    font-size: 14px;
+    color: #dddddd70;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 3px;
+    margin: 0px;
+}
+#logo {
+    margin-top: 5px;
+}
+.logo {
+    margin: 50px auto 0px;
+}
+#row {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#main-top-col {
+    width: 28.8%;
+}
+.main-top-col-l {
+    float: left;
+    border-color: black;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 20%);
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+    padding: 13px 15px;
+}
+.main-top-big {
+    border-color: black;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 20%);
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+    padding: 13px 20px;
+}
+.main-top-col-r {
+    float: right;
+    border-color: black;
+    border-radius: 10px;
+    background: #ffffff;
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 20%);
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-box-pack: justify;
+    padding: 13px 15px;
+}
+.wrapper {
+    margin-top: 10px;
+    padding: 15px; 
+    border-radius: 7px;
+    border-width: 0.05em;
+    border-style: solid;
+    border-color: lightgray;
+    background-color: #ebebeb;
+}
+.gauche {
+    max-width: 50%;
+}
+.droite {
+    max-width: 50%;
+    float: right;
+}
+#trailer-yt {
+    border-radius: 7px;
+}
+.discord-widget-footer {
+    max-width: 300px;
+    background-color: #677ED5;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    text-align: center;
+    box-shadow: 0 0 1px 1px rgb(255 255 255 / 32%) inset;
+    border: 1px solid rgba(0, 0, 0, .32);
+}
+#discord-footer {
+    font-family: police_custom_bold;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+.js-copy {
+    border: none;
+    padding: 0px;
+    padding-left: 0px;
+    background: url(img/copie.png) no-repeat;
+    background-position: -1px -6px;
+    background-size: 30px;
+}
+@font-face {
+    font-family: police_custom_bold;
+    src: url("Fonts/Mont-Heavy.otf") format("opentype");
+}

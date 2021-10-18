@@ -1,0 +1,65 @@
+fieldset {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: 0rem;
+    border-radius: 5px;
+    background-color: #ffff;
+}
+#title-up {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+body {
+    background-image: url(img/background_page.png);
+    background-position-x: -200px;
+    background-position-y: 0px;
+    background-size: 140%;
+}
+.main-vote {
+    margin-right: 250px;
+    margin-left: 250px;
+}
+#h3-vote {
+    padding-top: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#bold {
+    font-family: police_custom_3;
+}
+#s-title {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.staff-item {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    -ms-flex-align: stretch;
+    align-items: stretch;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.user-box .name {
+    font-size: 20px;
+    line-height: 24px;
+    display: block;
+    font-variant-ligatures: none;
+    color: #000;
+}
+.user-box {
+    text-align: center;
+}
+.block {
+    box-shadow: 0 1px 2px rgb(0 0 0 / 13%);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+@font-face {
+    font-family: police_custom_3;
+    src: url("Fonts/Mont-Heavy.otf") format("opentype");
+}
