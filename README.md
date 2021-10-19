@@ -1,2 +1,7 @@
 # NoSkillWorld-Website
-Site internet de NoSkillWorld
+
+Voici les sources du site internet de noskillworld.
+Vos retours sont les bienvenus !
+
+- utilisation personnelle
+- pas d'utilisation commerciale
