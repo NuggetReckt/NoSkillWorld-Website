@@ -1,7 +1,6 @@
 # NoSkillWorld-Website
 
-Voici les sources du site internet de noskillworld.
-Vos retours sont les bienvenus !
+Voici les sources du 1er site internet de noskillworld.
+Le code, la structure est dégeu mais bon il y a bien un début à tout 😉
 
-- utilisation personnelle
-- pas d'utilisation commerciale
+NuggetReckt
